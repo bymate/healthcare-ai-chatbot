@@ -1,4 +1,4 @@
-코드 파일 순서
+[코드 파일 순서]
 
 data_preprocess_origin.ipynb
 
