@@ -6,7 +6,7 @@ match_questions_answers.ipynb
 
 LLM fine tuning.ipynb
 
-증상분류모델.ipynb
+의도분류모델.ipynb
 
 증상분류&RAG.ipynb
 
