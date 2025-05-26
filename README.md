@@ -8,6 +8,6 @@ LLM fine tuning.ipynb
 
 의도분류모델.ipynb
 
-증상분류&RAG.ipynb
+의도분류&RAG.ipynb
 
 test_of_trainedmodel.ipynb
