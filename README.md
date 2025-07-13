@@ -85,8 +85,6 @@ LLM fine tuning.ipynb
 
 의도분류&RAG.ipynb
 
-test_of_trainedmodel.ipynb
-
 makebot.ipynb
 
-최종모델 성능평가.ipynb
+최종모델_성능평가.ipynb
