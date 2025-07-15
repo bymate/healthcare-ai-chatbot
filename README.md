@@ -1,4 +1,4 @@
-# 🤖 헬스케어 AI 챗봇 구축 프로젝트
+# 🤖 학습 데이터 정교화 및 RAG 활용 헬스케어 AI 챗봇 구축 프로젝트
 <br/>
 
 ## 🧑‍💻 프로젝트 개요  
@@ -10,11 +10,11 @@
 - 초거대 AI 헬스케어 질의응답 데이터(AI-Hub)
 - 답변은 **answer, body, conclusion**으로 구성
 - 의도 외에는 **어떤 질문에 대한 답변인지 알 수 없음**
-<img width="1076" height="332" alt="데이터구성" src="https://github.com/user-attachments/assets/07446bce-06e8-4c95-be92-10f11b4ba55a" />
+<img width="1328" height="413" alt="image" src="https://github.com/user-attachments/assets/a7c9d19a-50e0-42e9-a1e3-d07b678beb12" />
 
 **질문-답변 쌍 데이터셋 생성**
 
-<img width="750" height="811" alt="image" src="https://github.com/user-attachments/assets/7cfd360d-837a-4bea-a58e-8a15fa53a5b8" />
+<img width="1036" height="1125" alt="image" src="https://github.com/user-attachments/assets/4797e892-e440-4b9b-bbd0-c479f8d61125" />
 <br/><br/><br/>
 
 ## 🛠️ 모델 학습 상세 설명  
