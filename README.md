@@ -43,7 +43,8 @@
 <br/>
 
 ## ⚙️ 사용 기술 스택  
-- Python  
+- Python
+- PEFT(LoRA)
 - RAG (Retrieval-Augmented Generation)  
 - Llama3
 - scikit-learn, RandomForestClassifier, pandas
